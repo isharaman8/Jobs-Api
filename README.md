@@ -22,7 +22,7 @@
 <hr>
 
 <h3>Demonstration</h3>
-<img src="https://user-images.githubusercontent.com/53399843/154195679-d033228a-4c1e-46d3-b642-cd5685fd90ff.gif" alt=""/>
+<img src="https://user-images.githubusercontent.com/53399843/154196273-17f87291-996f-4f3d-b7b4-8a9d343f4d58.gif" alt=""/>
 
 
 <h3>Tech Stack</h3>
