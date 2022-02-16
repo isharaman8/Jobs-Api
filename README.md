@@ -21,7 +21,23 @@
 </ul>
 <hr>
 
+<h3>Demonstration</h3>
+<img src="https://user-images.githubusercontent.com/53399843/154195679-d033228a-4c1e-46d3-b642-cd5685fd90ff.gif" alt=""/>
+
+
+<h3>Tech Stack</h3>
+<ul>
+  <li>Node JS</li>
+  <li>MongoDB</li>
+  <li>SwaggerUI</li>
+</ul>
+
+<h3>Libraries Used</h3>
+<ul>
+  <li>json-web-token: Auth Token</li>
+  <li>bcryptjs: Hashing Password</li>
+</ul>
+
 <h3>How to use:</h3>
 <p>Either use local mongodb server or one on <a href="https://www.mongodb.com/" target="_blank">mongodb atlas</a> to connect to the database. That being done, start up the server and try the api :smile:.</p>
 <p>Try it <a href="https://serene-brook-67360.herokuapp.com/" target="_blank">here</a>
-
